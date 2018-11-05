@@ -1,0 +1,26 @@
+The XOR operator
+
+https://www.codewars.com/kata/reviews/56fb48d137fb7ca8d6000009/groups/56fda129af230f930b000c9b
+
+Offspring
+
+https://www.codewars.com/kata/reviews/579e76cf5460363df9000170/groups/5bdf559b54a632fb910016d7
+
+Do you play banjo?
+
+https://www.codewars.com/kata/reviews/54a5cd6f8e5c31733e000013/groups/5be0555597480421e800165f
+
+Categorize new member
+
+https://www.codewars.com/kata/reviews/5502c9e8b3216ec63c0001ac/groups/5845d556ae92e294f4000004
+
+Excessively Abundant Numbers
+
+
+
+Debug 3 Functions
+
+https://www.codewars.com/kata/reviews/58781655a9302459150001a3/groups/5be07563e5d8d5b5a6001dba
+
+Most Amicable Numbers
+
